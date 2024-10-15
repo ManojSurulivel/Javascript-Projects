@@ -1,3 +1,9 @@
 # JavaScript-projects
-# javascript-projects
-# Javascript-Projects
+1. Calculator
+2. DigitalClock
+3. NotesApp
+4. PasswordGenerator
+5. QuizApp
+6. StopWatch
+7. Todolist
+8. WeatherApp
